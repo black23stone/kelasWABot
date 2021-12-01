@@ -56,7 +56,7 @@ settings.json
 	"classCode": "TI",
 	"classSemester": "Abadi",
 	"classCategory": "A",
-	"classTeacher": "Awal Ariansyah, S.arkas, M.ager",
+	"classTeacher": "Aswad, S.arkas, M.ager",
 	"nomicsAPI": {
 		"endpoint": "https://api.nomics.com/v1/currencies/ticker?",
 		"key": "key=[API key dari nomics disini]&"
@@ -165,4 +165,4 @@ Dikarenakan kesibukan author, maka terdapat fitur yang belum diimplementasikan s
 
 Bagi yang ingin membuka PR untuk menambahkan fitur diatas sangat-sangat terbuka, silakan langsung PR saja tanpa open issue.
 
-# STMIK Komputama
+# STMIK AKBA MAKASSAR
